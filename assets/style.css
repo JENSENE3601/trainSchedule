@@ -1,0 +1,20 @@
+.jumbotron {
+    background-color: rgb(127, 70, 44);
+    color: white;
+    text-align: center;
+}
+.panel {
+    border:1px solid blue;
+}
+.panel-heading{
+    background-color: blue;
+    color: white;
+}
+.time
+{
+	border-radius: 5px;
+	font-size: 25px;
+	width: 120px;
+	background-color: blue;
+	text-align: center;
+}
